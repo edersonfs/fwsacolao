@@ -1,0 +1,4 @@
+/// ACTION TYPES - REDUX
+
+export const ADD_FRUTA = 'ADD_FRUTA'
+export const CLEAR_FRUTA = 'CLEAR_FRUTA'
